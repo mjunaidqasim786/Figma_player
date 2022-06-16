@@ -1,50 +1,18 @@
-.bg{
-
-
-position: absolute;
-left: 0%;
-right: 0%;
-top: 0%;
-bottom: 0.36%;
-
-background: rgba(3, 31, 69, 0.5);
-backdrop-filter: blur(10px);
-
-
-
-}
-
-.bcg1{
-    position: absolute;
-left: 36.5%;
-right: 36.31%;
-top: 3.78%;
-bottom: 86.78%;
-
-background: url(pngwing.png);
-}
-.textcus{
-    position: absolute;
-left: 28.5%;
-right: 12%;
-top: 39.64%;
-bottom: 58.06%;
-
-font-family: 'Inter';
+.table-title{
+ font-family: 'Inter';
 font-style: normal;
-font-weight: 500;
-font-size: 16px;
-line-height: 19px;
-
-color: #FFFFFF;
-
+font-weight: 600;
+font-size: 24px;
+line-height: 29px;
+color: #625ED7;
 }
-.myimg{
-
-
-position: absolute;
-left: 70.9%;
-right: 27.99%;
-top: 9.58%;
-bottom: 88.79%;
+.maintable
+{
+    margin-top: 100px;
+    margin-left: 500px;
 }
+.tablehead
+{
+    background: #625ED7;
+}
+@import url(https://fonts.googleapis.com/earlyaccess/notonaskharabic.css);
